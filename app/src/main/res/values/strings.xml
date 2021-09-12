@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Tic Tac Toe</string>
+    <string name="random_mover">Random Mover</string>
+    <string name="perfect_mover">Perfect Mover</string>
+    <string name="user_starts">User Starts</string>
+    <string name="computer_starts">Computer Starts</string>
+    <string name="o">O</string>
+    <string name="x">X</string>
+</resources>
